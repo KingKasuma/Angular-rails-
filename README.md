@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Information from the project
-This is a fronted app in angular and later we are to connect a backend done in Rails.
+This is a fronted app in angular and later we are to connect a backend done in Rails and more.
